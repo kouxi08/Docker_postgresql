@@ -1,7 +1,7 @@
 # Docker_postgresql
 
 
-##構成　　
+##構成　　　
 postgresql /  
           ├  docker-compose.yml  
           ├ script /  
